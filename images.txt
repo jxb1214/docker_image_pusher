@@ -9,6 +9,7 @@ ibex/debian-mysql-server-5.7
 hub.zentao.net/app/zentao
 star7th/showdoc
 openjdk:8
+jenkins/jenkins:2.426.2-lts
 #支持私库
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
