@@ -1,1 +1,1 @@
-sonatype/nexus3
+amd64/redis
