@@ -1,14 +1,13 @@
-nginx:1.29.3
-#支持私库
-mysql:8.3.0
-redis:8.4.0
-nacos/nacos-server:v2.5.2
-minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
-apache/rocketmq:5.2.0
-rabbitmq:3.13.3
-prom/prometheus:v2.40.1  
-tekintian/oracle12c:latest
-postgres:14.2
-186184848/documentserver:8.3.3
+ --platform=linux/arm64 nginx:1.29.3
+ --platform=linux/arm64 mysql:8.3.0
+ --platform=linux/arm64 redis:8.4.0
+ --platform=linux/arm64 nacos/nacos-server:v2.5.2
+ --platform=linux/arm64 minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
+ --platform=linux/arm64 apache/rocketmq:5.2.0
+ --platform=linux/arm64 rabbitmq:3.13.3
+ --platform=linux/arm64 prom/prometheus:v2.40.1
+ --platform=linux/arm64 tekintian/oracle12c:latest
+ --platform=linux/arm64 postgres:14.2
+ --platform=linux/arm64 186184848/documentserver:8.3.3
 #支持指定架构
 # --platform=linux/arm64
