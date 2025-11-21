@@ -9,8 +9,9 @@
 # --platform=linux/arm64 tekintian/oracle12c:latest
 # --platform=linux/arm64 postgres:14.2
 # --platform=linux/arm64 186184848/documentserver:8.3.3
-# --platform=linux/arm64 minio/minio:RELEASE.2025-09-07T16-13-09Z
 #--platform=linux/arm64 minio/minio:RELEASE.2023-03-24T21-41-23Z
---platform=linux/arm64 rabbitmq:4.2.1-management
+#--platform=linux/arm64 rabbitmq:4.2.1-management
+--platform=linux/arm64 openjdk:8
+--platform=linux/arm64 bellsoft/liberica-openjdk-debian:17.0.13-cds-x86_64
 #支持指定架构
 # --platform=linux/arm64
