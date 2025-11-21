@@ -9,5 +9,6 @@
  --platform=linux/arm64 tekintian/oracle12c:latest
  --platform=linux/arm64 postgres:14.2
  --platform=linux/arm64 186184848/documentserver:8.3.3
+ --platform=linux/arm64 minio/minio:RELEASE.2025-09-07T16-13-09Z
 #支持指定架构
 # --platform=linux/arm64
