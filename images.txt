@@ -1,8 +1,9 @@
 # --platform=linux/arm64 nginx:1.29.3
 # --platform=linux/arm64 mysql:8.3.0
 # --platform=linux/arm64 redis:8.4.0
-mysql:8.3.0
-redis:8.4.0
+#mysql:8.3.0
+#redis:8.4.0
+adoptopenjdk/openjdk8
 # --platform=linux/arm64 nacos/nacos-server:v2.5.2
 # --platform=linux/arm64 minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
 #--platform=linux/arm64  apache/rocketmq:5.3.3
