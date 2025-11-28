@@ -4,7 +4,8 @@
 #mysql:8.3.0
 #redis:8.4.0
 #adoptopenjdk/openjdk8
-spants/mqtt:latest
+#spants/mqtt:latest
+emqx/emqx:6.0.1
 # --platform=linux/arm64 nacos/nacos-server:v2.5.2
 # --platform=linux/arm64 minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
 #--platform=linux/arm64  apache/rocketmq:5.3.3
