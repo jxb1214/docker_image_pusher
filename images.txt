@@ -19,7 +19,6 @@
 #--platform=linux/arm64 adoptopenjdk/openjdk8
 #--platform=linux/arm64 bellsoft/liberica-openjdk-debian:17.0.17-cds
 #--platform=linux/arm64 mongodb/mongodb-community-server:7.0-ubi8
---platform=linux/arm64 mysql/mysql-server:5.7
---platform=linux/arm64 mcr.microsoft.com/openjdk/jdk:17-windowsservercore-ltsc2022
-#支持指定架构
+#--platform=linux/arm64 mysql/mysql-server:5.7
+--platform=linux/arm64 mcr.microsoft.com/windows/servercore:ltsc2022
 # --platform=linux/arm64
