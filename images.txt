@@ -20,5 +20,5 @@
 #--platform=linux/arm64 bellsoft/liberica-openjdk-debian:17.0.17-cds
 #--platform=linux/arm64 mongodb/mongodb-community-server:7.0-ubi8
 #--platform=linux/arm64 mysql/mysql-server:5.7
-mcr.microsoft.com/windows/servercore:ltsc2022
+tgridcloudewsp/windowsservercoreltsc2019:latest
 # --platform=linux/arm64
