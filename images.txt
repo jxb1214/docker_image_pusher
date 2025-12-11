@@ -19,6 +19,9 @@
 #--platform=linux/arm64 adoptopenjdk/openjdk8
 #--platform=linux/arm64 bellsoft/liberica-openjdk-debian:17.0.17-cds
 #--platform=linux/arm64 mongodb/mongodb-community-server:7.0-ubi8
-#--platform=linux/arm64 mysql/mysql-server:5.7
-tgridcloudewsp/windowsservercoreltsc2019:latest
+#--platform=linux/arm64 mysql/mysql-server:5.7#tgridcloudewsp/windowsservercoreltsc2019:latest
+--platform=linux/arm64 elasticsearch:7.17.6
+--platform=linux/arm64 kibana:7.17.6
+--platform=linux/arm64 logstash:7.17.6
+--platform=linux/arm64 tekintian/oracle12c:latest
 # --platform=linux/arm64
