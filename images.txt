@@ -24,5 +24,6 @@
 #--platform=linux/arm64 kibana:7.17.6
 #--platform=linux/arm64 logstash:7.17.6
 #--platform=linux/arm64 tekintian/oracle12c:latest
-bellsoft/liberica-openjdk-debian:17.0.13-cds-x86_64
+#bellsoft/liberica-openjdk-debian:17.0.13-cds-x86_64
+sizx/dm8:ft-yhqlv4.0-v1-3-12-2023.04.17-187846-20040-ENT
 # --platform=linux/arm64
