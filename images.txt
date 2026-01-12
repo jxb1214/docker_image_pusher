@@ -25,5 +25,6 @@
 #--platform=linux/arm64 logstash:7.17.6
 #--platform=linux/arm64 tekintian/oracle12c:latest
 #bellsoft/liberica-openjdk-debian:17.0.13-cds-x86_64
-sizx/dm8:ft-yhqlv4.0-v1-3-12-2023.04.17-187846-20040-ENT
+#sizx/dm8:ft-yhqlv4.0-v1-3-12-2023.04.17-187846-20040-ENT #ARM
+#sizx/dm8:1-2-128-22.08.04-166351-20005-CTM #AMD
 # --platform=linux/arm64
