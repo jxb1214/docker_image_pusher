@@ -29,7 +29,7 @@
 #sizx/dm8:1-2-128-22.08.04-166351-20005-CTM #AMD
 # --platform=linux/arm64
 #mysql:8.3.0
-golang:1.21
+golang:1.22-alpine
 --platform=linux/amd64
 
 
